@@ -1,0 +1,23 @@
+.album-square {
+    height: 128PX;
+    width: 128PX;
+    background-color: #FFF;
+    background-size: cover;
+    background-position: center;
+    background-image: url('https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/52739813_1141682262659561_7424908761451462656_n.jpg?_nc_cat=109&_nc_oc=AQlYoEFm8wD8Xe4i8g7yRdjS38-qUbML45l3imZEpDwfyn-4bvpqT2GMzVz-WjseiIo&_nc_ht=scontent.fhan2-3.fna&oh=39937532854a9b656644c6e59c5a7062&oe=5D5AF896')
+  }
+  .album-square .overlays {
+    font-family: Arial, sans-serif;
+    height: 100%;
+    font-size: 50px;
+    color: #BBB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity:0;
+  }
+  .album-square:hover .overlays {
+    opacity: 1;
+  }
+  
+  

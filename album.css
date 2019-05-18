@@ -1,0 +1,41 @@
+
+.album-cover1 {
+    background-color: #DDD;
+    width: 128px;
+    height: 128px;
+    background-image: url('https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/58608383_444520412976223_3478580505081806848_n.jpg?_nc_cat=109&_nc_oc=AQnfmvYQ9g8yDnv6pwdrX-WTvZoPkTNzJGeWxeO1NASo0uQSeDQj7KXkTo8AiqtJi-E&_nc_ht=scontent.fhan2-3.fna&oh=0f140011c0f42e689f79428a6a35feda&oe=5D9E9D23');
+    background-size: cover;
+    background-position: center;
+  }
+  .album-cover1 .overlay {
+    height: 100%;
+    background: rgb(2,0,36);
+  background: linear-gradient(0deg, rgba(2,0,36,0.8071603641456583) 0%, rgba(0,0,0,0) 100%);
+  font-family: Arial, sans-serif;
+  color: #FFF;
+  display: flex;
+  align-items: flex-end;
+  font-size: 20px;
+  padding: 8px;
+  box-sizing: border-box;
+  }
+  .album-cover2 {
+    background-color: #DDD;
+    width: 128px;
+    height: 128px;
+    background-image: url('https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-9/57438141_1170825529745234_2810120054354477056_n.jpg?_nc_cat=111&_nc_oc=AQnLCnMsArkU42sh2Zilr4cS1jw1Nc-B5Rbwntjs8PciwIdEToEtwmXeZAlev42pvlI&_nc_ht=scontent.fhan2-2.fna&oh=47f5033cf2114df772d8c56d0cb0e767&oe=5D550810');
+    background-size: cover;
+    background-position: center;
+  }
+  .album-cover2 .overlay {
+    height: 100%;
+    background: rgb(2,0,36);
+  background: linear-gradient(0deg, rgba(2,0,36,0.8071603641456583) 0%, rgba(0,0,0,0) 100%);
+  font-family: Arial, sans-serif;
+  color: #FFF;
+  display: flex;
+  align-items: flex-end;
+  font-size: 20px;
+  padding: 8px;
+  box-sizing: border-box;
+  }

@@ -1,0 +1,26 @@
+
+.list-item {
+    display: flex;
+    align-items: center;
+    padding: 3px 5px;
+    border-bottom: 1px solid #EEE;
+    
+  }
+  .list-item .number {
+    font-size: 22px;
+    padding: 0 8px;
+  }
+  .list-item .singer {
+  font-size: 15px;
+  color: #BBB;
+  }
+  .list-item .name {
+    margin: 2px;
+  }
+  .list-item .view-count {
+    color: #999;
+  }
+  .list-item .list-name {
+    flex-grow: 1;
+    margin: 4px;
+  }
